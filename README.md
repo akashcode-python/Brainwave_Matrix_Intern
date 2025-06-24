@@ -19,3 +19,14 @@ pizzas.csv: 96 unique pizza combinations by pizza_id, size, and price.
 pizza_types.csv: 32 pizza types with name, category, and ingredients.
 
 
+PIZZA SALES DATA ANALYSIS WITH My Python
+
+🍕 Pizza Sales Summary
+💰 Total Revenue: $817,860.05
+
+🍕 Total Pizzas Sold: 49,574
+
+
+
+
+
